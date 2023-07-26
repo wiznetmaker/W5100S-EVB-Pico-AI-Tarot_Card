@@ -34,7 +34,6 @@ The first thing to do is to do is to connect Ethernet. You can easily connect th
 Getting Started
 ![image](https://github.com/wiznetmaker/W5100S-EVB-Pico-AI-Tarot_Card/assets/111826791/223dae96-c31e-47e8-8235-dc19daabf326)
 
-
 You can configure the computer to be a server and the Pico to be a client.
 
 #### Image transfer / Display

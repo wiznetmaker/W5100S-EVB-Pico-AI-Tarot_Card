@@ -74,6 +74,7 @@ The code for DALL-E 2 is structured as follows. One thing to note here is the Im
 Anyway, when sending and receiving data, the image size cannot be larger than the size of SRAM because the data is stored in SRAM.
 
 In my experience, the program did not work properly when the image size exceeded 53k. I will upgrade this part in the future so that we can display even cooler images.
+
 ![image](https://github.com/wiznetmaker/W5100S-EVB-Pico-AI-Tarot_Card/assets/111826791/227c4ea1-98bb-4abd-aa47-e696db9e5e63)
 
 In the main code, we send the data received from GPT back to DALL-E 2 as follows.
@@ -82,6 +83,7 @@ In the main code, we send the data received from GPT back to DALL-E 2 as follows
 
 The Dall-E2 creates an image from the prompt sent by the GPT.
 #### Display
+
 ![image](https://github.com/wiznetmaker/W5100S-EVB-Pico-AI-Tarot_Card/assets/111826791/ebbd15cb-37a8-4d09-9caa-f3a29fdae19a)
 
 Send the data to the Client as you did in the process above to display the image created by the Dall-E2!

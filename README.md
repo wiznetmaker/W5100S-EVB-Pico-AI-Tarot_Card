@@ -2,6 +2,7 @@
 W5100S-EVB-Pico + LCD + Button / Chat GPT + DALL-E2
 
 ## Choice! Check your fortune with tarot cards !
+![image](https://github.com/wiznetmaker/W5100S-EVB-Pico-AI-Tarot_Card/assets/111826791/a4cfc166-05eb-4961-b509-d1b979c55e75)
 
 ![image](https://github.com/wiznetmaker/W5100S-EVB-Pico-AI-Tarot_Card/assets/111826791/17d3ea0c-eada-4b4c-84df-79f1348b39d7)
 
